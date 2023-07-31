@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Package Version="4">
+    <Name Value="ajctrls"/>
+    <Type Value="RunAndDesignTime"/>
+    <AddToProjectUsesSection Value="True"/>
+    <Author Value="André J. da Silva"/>
+    <CompilerOptions>
+      <Version Value="11"/>
+      <SearchPaths>
+        <UnitOutputDirectory Value="lib/$(TargetCPU)-$(TargetOS)"/>
+      </SearchPaths>
+    </CompilerOptions>
+    <License Value="LGPL"/>
+    <Version Major="1" Build="6"/>
+    <Files Count="12">
+      <Item1>
+        <Filename Value="ajbaseprinter.pas"/>
+        <UnitName Value="AJBasePrinter"/>
+      </Item1>
+      <Item2>
+        <Filename Value="ajbutton.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="AJButton"/>
+      </Item2>
+      <Item3>
+        <Filename Value="ajcaprinter.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="AJCaPrinter"/>
+      </Item3>
+      <Item4>
+        <Filename Value="ajcconst.pas"/>
+        <UnitName Value="AJCConst"/>
+      </Item4>
+      <Item5>
+        <Filename Value="ajdateutil.pas"/>
+        <UnitName Value="ajdateutil"/>
+      </Item5>
+      <Item6>
+        <Filename Value="ajdbutils.pas"/>
+        <UnitName Value="ajdbutils"/>
+      </Item6>
+      <Item7>
+        <Filename Value="ajdmprinter.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="AJDmPrinter"/>
+      </Item7>
+      <Item8>
+        <Filename Value="ajedit.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="ajedit"/>
+      </Item8>
+      <Item9>
+        <Filename Value="ajpanel.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="AJPanel"/>
+      </Item9>
+      <Item10>
+        <Filename Value="ajprinter.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="AJPrinter"/>
+      </Item10>
+      <Item11>
+        <Filename Value="ajaeroglass.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="ajaeroglass"/>
+      </Item11>
+      <Item12>
+        <Filename Value="ajprogressbar.pas"/>
+        <HasRegisterProc Value="True"/>
+        <UnitName Value="ajprogressbar"/>
+      </Item12>
+    </Files>
+    <RequiredPkgs Count="1">
+      <Item1>
+        <PackageName Value="LCL"/>
+      </Item1>
+    </RequiredPkgs>
+    <UsageOptions>
+      <UnitPath Value="$(PkgOutDir)"/>
+    </UsageOptions>
+    <PublishOptions>
+      <Version Value="2"/>
+    </PublishOptions>
+    <CustomOptions Items="ExternHelp" Version="2">
+      <_ExternHelp Items="Count"/>
+    </CustomOptions>
+  </Package>
+</CONFIG>

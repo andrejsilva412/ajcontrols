@@ -1,0 +1,2 @@
+del ajlaz.lrs
+C:\lazarus\tools\lazres.exe ajlaz.lrs tajbarcode.png tajbuscacep.png tajcaprinter.png tajcotdollar.png tajcurrencyedit.png tajdatasourceplus.png tajdbcurrencyedit.png tajdbeditbutton.png tajdbgrid.png tajdbmaskedit.png tajdbspinedit.png tajdmprinter.png tajdvcpfcnpj.png tajmaskedit.png tajmemorydata.png tajprinter.png tajsayprint.png tajvalorporextenso.png tajdbdateedit.png calendar.png tajdateedit.png calc.png tajcalcedit.png tajprogressbar.png tajbutton.png tajpanel.png TAJDBCalcEdit.png tajedit.png tajdbedit.png tajlookupautocomplete.png taeroglass.png

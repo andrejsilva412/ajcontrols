@@ -1,0 +1,34 @@
+object frmAJPrintProgress: TfrmAJPrintProgress
+  Left = 342
+  Height = 79
+  Top = 341
+  Width = 334
+  BorderIcons = []
+  BorderStyle = bsSingle
+  Caption = 'Imprimindo'
+  ClientHeight = 79
+  ClientWidth = 334
+  OnActivate = FormActivate
+  OnClose = FormClose
+  OnCreate = FormCreate
+  OnShow = FormShow
+  Position = poScreenCenter
+  LCLVersion = '1.0.1.3'
+  object lblPrinting: TLabel
+    AnchorSideLeft.Control = Owner
+    AnchorSideTop.Control = Owner
+    Left = 47
+    Height = 20
+    Top = 29
+    Width = 246
+    Anchors = []
+    BorderSpacing.Left = 41
+    BorderSpacing.Top = 27
+    Caption = 'Imprimindo por favor aguarde'
+    Font.Name = 'Tahoma'
+    Font.Quality = fqAntialiased
+    Font.Style = [fsBold]
+    ParentColor = False
+    ParentFont = False
+  end
+end

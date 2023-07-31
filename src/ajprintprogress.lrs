@@ -1,0 +1,15 @@
+{ This is an automatically generated lazarus resource file }
+
+LazarusResources.Add('TfrmAJPrintProgress','FORMDATA',[
+  'TPF0'#19'TfrmAJPrintProgress'#18'frmAJPrintProgress'#4'Left'#3'V'#1#6'Height'
+  +#2'O'#3'Top'#3'U'#1#5'Width'#3'N'#1#11'BorderIcons'#11#0#11'BorderStyle'#7#8
+  +'bsSingle'#7'Caption'#6#10'Imprimindo'#12'ClientHeight'#2'O'#11'ClientWidth'
+  +#3'N'#1#10'OnActivate'#7#12'FormActivate'#7'OnClose'#7#9'FormClose'#8'OnCrea'
+  +'te'#7#10'FormCreate'#6'OnShow'#7#8'FormShow'#8'Position'#7#14'poScreenCente'
+  +'r'#10'LCLVersion'#6#7'1.0.1.3'#0#6'TLabel'#11'lblPrinting'#22'AnchorSideLef'
+  +'t.Control'#7#5'Owner'#21'AnchorSideTop.Control'#7#5'Owner'#4'Left'#2'/'#6'H'
+  +'eight'#2#20#3'Top'#2#29#5'Width'#3#246#0#7'Anchors'#11#0#18'BorderSpacing.L'
+  +'eft'#2')'#17'BorderSpacing.Top'#2#27#7'Caption'#6#28'Imprimindo por favor a'
+  +'guarde'#9'Font.Name'#6#6'Tahoma'#12'Font.Quality'#7#13'fqAntialiased'#10'Fo'
+  +'nt.Style'#11#6'fsBold'#0#11'ParentColor'#8#10'ParentFont'#8#0#0#0
+]);
